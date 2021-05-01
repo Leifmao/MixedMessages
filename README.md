@@ -1,2 +1,2 @@
 # MixedMessages
-JS project that randomly presents a message to the user.
+JS project that randomly presents a famous one liner in console.log.
